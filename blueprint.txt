@@ -1,0 +1,54 @@
+Blog List
+    carousel of Recent Blogs
+    Blog Sumary - Sidebar
+        Banner (Likes)      - Title
+        Author ThumbNail    - Description
+                            - Author + Updated On
+        Tags
+
+Blog Single
+    Banner
+    Title
+    Author Name - Updated On
+    Details
+    Like
+    Tags
+    Comments - Needs to reviewed
+    Related Blogs - Slider
+
+Sidebar
+    Search
+    Categories
+    Tags
+    Recent Posts
+    Twitter Feed
+
+Author
+    DP
+    Name
+    Description
+    Recent Blogs - Sidebar
+
+Search Results Page
+    Results for - XXXX
+    Results - Sidebar
+    pagination
+
+Contact Us Page
+    Heading
+    Form - Map
+
+
+Blog List
+Blog Single
+Categories
+Tags
+Recent Posts
+Search Bar
+Search Results Page
+Twitter Feed
+Author
+Comments
+Contatc Us
+Share
+Likes
